@@ -1,4 +1,4 @@
-# Jug Labyrinth Sliding Tiles Solver 🧩
+# Water Jugs Labyrinth and Sliding Tiles Solver 🧩
 This project explores the classic sliding tile puzzle problem with a unique twist inspired by a jug labyrinth concept. The program is designed to solve puzzles using algorithmic strategies and demonstrates the principles of state exploration and pathfinding in a constrained environment.
 
 Features
