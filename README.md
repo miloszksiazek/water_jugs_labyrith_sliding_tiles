@@ -21,7 +21,7 @@ How It Works
 	4.	Visualization: Render each state transition for better understanding and debugging.
 
 Usage
-	1.	Clone the repository:
+	1.	Clone the repository
  	2.	Open the Jug_labyrinth_sliding_tiles.ipynb file in Jupyter Notebook.
 	3.	Follow the step-by-step instructions to define puzzles, solve them, and visualize results.
 
